@@ -1,2 +1,2 @@
 # Therabank-Marketing-Project
-Build a model that will help marketing team identify which customers will opt for a personal loan.
+Use Supervised Learning to help marketing team identify customers who will take out a personal loan.
