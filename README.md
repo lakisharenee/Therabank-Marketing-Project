@@ -1,2 +1,2 @@
 # Therabank-Marketing-Supervised-Learning-Project
-Use Supervised Learning to help marketing team identify customers who will take out a personal loan.
+In this case study, Therabank - a banking institution - wants to develop a marketing campaign to sell personal loans to bank customers.  The marketing budget is limited so we want to get the most out of our marketing dollars.  Here supervised learning is sed to help the marketing team identify bank customers who'd be most likey to convert into personal loan customers.    
